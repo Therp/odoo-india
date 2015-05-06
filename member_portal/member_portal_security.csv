@@ -1,2 +1,0 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_job_history_group_user,res.partner.history,model_res_partner_history,base.group_user,1,1,1,0
